@@ -1,0 +1,14 @@
+/Users/hugobrochard/#C/Project/3/bin/Debug/net8.0/3
+/Users/hugobrochard/#C/Project/3/bin/Debug/net8.0/3.deps.json
+/Users/hugobrochard/#C/Project/3/bin/Debug/net8.0/3.runtimeconfig.json
+/Users/hugobrochard/#C/Project/3/bin/Debug/net8.0/3.dll
+/Users/hugobrochard/#C/Project/3/bin/Debug/net8.0/3.pdb
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/3.AssemblyInfoInputs.cache
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/3.AssemblyInfo.cs
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/3.csproj.CoreCompileInputs.cache
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/3.dll
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/refint/3.dll
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/3.pdb
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/3.genruntimeconfig.cache
+/Users/hugobrochard/#C/Project/3/obj/Debug/net8.0/ref/3.dll

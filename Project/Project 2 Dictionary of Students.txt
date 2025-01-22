@@ -1,0 +1,19 @@
+Dictionary<string, int> ssdb = new Dictionary<string, int>()
+            {
+                {"Alfred", 48}, {"Alison", 54}, {"Allan", 42},
+                {"Audrey", 49}, {"Barry", 66}, {"Beth", 67},
+                {"Billy", 70}, {"Calvin", 86}, {"Charlotte", 43},
+                {"Chris", 72}, {"Claire", 63}, {"Clara", 59},
+                {"Clifford", 87}, {"Dean", 95}, {"Edgar",96},
+                {"Edna",66}, {"Eileen",100}, {"Franklin",59},
+                {"Frederick",97}, {"Glen",70}, {"Gordon",88},
+                {"Jean",48}, {"Jeff",54}, {"Joanna",43},
+                {"Joanne",78}, {"Julian",99}, {"Keith",97},
+                {"Ken",80}, {"Kim",75}, {"Kristen",44},
+                {"Louise",67}, {"Luis",85}, {"Margaret",76},
+                {"Martin",61}, {"Mary",95}, {"Nina",73},
+                {"Pauline",73}, {"Penny",49}, {"Peter",75},
+                {"Rhonda",94}, {"Richard",76}, {"Robyn",45},
+                {"Samantha",89}, {"Sara",80}, {"Stephen",84},
+                {"Tammy",62},{"Vincent",79}, {"William",99}
+            };
